@@ -9,7 +9,8 @@ In the project directory, you can run:
 ### `npm start`
 
 Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+Open [http://localhost:3000](http://lo![Screenshot (1055)](https://github.com/user-attachments/assets/30bead0b-cda1-4ee3-9db3-f617ba12c1c7)
+calhost:3000) to view it in your browser.
 
 The page will reload when you make changes.\
 You may also see any lint errors in the console.
@@ -54,6 +55,7 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/c
 This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
 
 ### Making a Progressive Web App
+![Screenshot (1054)](https://github.com/user-attachments/assets/994c74b1-1a22-4729-80cd-b112740a0c1d)
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
 
@@ -68,3 +70,24 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+
+![Screenshot (1055)](https://github.com/user-attachments/assets/e1213d49-7ee8-4b31-be47-927ec2206f45)
+
+![Screenshot (1054)](https://github.com/user-attachments/assets/7633947d-262d-4913-bb30-2235c940d82d)
+
+
+![Uploading Screenshot (1056).png…]()
+
+
+![Screenshot (1058)](https://github.com/user-attachments/assets/3671e602-daad-4a30-bb9c-822516f3a8f9)
+
+
+
+
+![Screenshot (1058)](https://github.com/user-attachments/assets/5f7d7c3a-1249-440d-b3d1-1ddbb6634c8f)
+
+
+
+
+![Screenshot (1059)](https://github.com/user-attachments/assets/95fef00a-e482-4942-bcb4-656e0199b883)
